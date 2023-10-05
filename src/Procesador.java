@@ -1,3 +1,6 @@
+/**
+ * esta clase esta añadido a GIT.
+ */
 public class Procesador {
     // Estados atributos y propiedades\\
 
